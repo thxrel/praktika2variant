@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Производство стальных дверей | Дверная компания</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css" />
+</head>
+
+<body>
+	<!-- Шапка -->
+	<header class="header">
+		<div class="container">
+			<div class="header__inner">
+				<div class="header__logo">
+					<img src="images/logo.png" alt="Логотип компании" class="logo-img">
+                </div>
+					<nav class="nav">
+						<a href="#" class="nav__link">Виды дверей</a>
+						<a href="#" class="nav__link">Преимущества</a>
+						<a href="#" class="nav__link">Вертикальные двери</a>
+						<a href="#" class="nav__link">Цвета и материалы</a>
+						<a href="#" class="nav__link">Акции</a>
+						<a href="#" class="nav__link">О компании</a>
+						<a href="#" class="nav__link">Отзывы</a>
+						<a href="#" class="nav__link">Контакты</a>
+					</nav>
+					<div class="header__contacts">
+						<a href="tel:+79151000219" class="header__phone">+7 (915) 100-02-19</a>
+						<button class="header__callback">Заказать звонок</button>
+					</div>
+				</div>
+			</div>
+	</header>
+
+	<!-- Главный баннер -->
+	<section class="hero">
+		<div class="container">
+			<div class="hero__content">
+				<h1>ПРОИЗВОДСТВО СТАЛЬНЫХ ДВЕРЕЙ С УСТАНОВКОЙ<br>ПО ИНДИВИДУАЛЬНЫМ РАЗМЕРАМ</h1>
+					<p class="hero__text">Закажите входную дверь от производителя по вашим индивидуальным размерам со
+						скидкой.</p>
+					<button class="btn btn--large">Рассчитать стоимость дверей</button>
+			</div>
+		</div>
+	</section>
+
+	<!-- Преимущества -->
+	<section class="advantages">
+		<div class="container">
+			<div class="advantages__grid">
+				<div class="advantage">
+					<div class="advantage__number">01</div>
+					<h3 class="advantage__title">Изготовим за 12-48 часов</h3>
+					<p class="advantage__text">Lorem ipsum dolor sit amet consectetur. Orci eros amet suspendisse
+						imperdiet mi. Proin a quisque nulla sit mattis pellentesque dui vestibulum tortor. Proin
+						convallis sagittis consectetur egestas.</p>
+				</div>
+
+				<div class="advantage">
+					<div class="advantage__number">02</div>
+					<h3 class="advantage__title">Установим за 2 часа</h3>
+					<p class="advantage__text">Lorem ipsum dolor sit amet consectetur. Orci eros amet suspendisse
+						imperdiet mi. Proin a quisque nulla sit mattis pellentesque dui vestibulum tortor. Proin
+						convallis sagittis consectetur egestas.</p>
+				</div>
+
+				<div class="advantage">
+					<div class="advantage__number">03</div>
+					<h3 class="advantage__title">Привезём за 0 руб</h3>
+					<p class="advantage__text">Lorem ipsum dolor sit amet consectetur. Orci eros amet suspendisse
+						imperdiet mi. Proin a quisque nulla sit mattis pellentesque dui vestibulum tortor. Proin
+						convallis sagittis consectetur egestas.</p>
+				</div>
+
+				<div class="advantage">
+					<div class="advantage__number">04</div>
+					<h3 class="advantage__title">Демонтируем за 0 руб</h3>
+					<p class="advantage__text">Lorem ipsum dolor sit amet consectetur. Orci eros amet suspendisse
+						imperdiet mi. Proin a quisque nulla sit mattis pellentesque dui vestibulum tortor. Proin
+						convallis sagittis consectetur egestas.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Виды дверей -->
+	<section class="door-types">
+		<div class="container">
+			<h2 class="section-title centered">МЫ ПРОИЗВОДИМ РАЗНЫЕ ВИДЫ ДВЕРЕЙ</h2>
+
+			<!-- Кнопки категорий -->
+			<div class="door-categories">
+				<div class="door-categories-row">
+					<!-- ТОЛЬКО эта кнопка должна быть оранжевой -->
+					<button class="btn btn-primary">В квартиру</button>
+
+					<!-- Все остальные должны быть прозрачными -->
+					<button class="btn btn-outline">Для дачи с терморазрывом</button>
+					<button class="btn btn-outline">Тамбурные</button>
+					<button class="btn btn-outline">Противопожарные</button>
+				</div>
+				<div class="door-categories-row">
+					<button class="btn btn-outline">Технические</button>
+					<button class="btn btn-outline">Элитные</button>
+					<button class="btn btn-outline">С зеркалом</button>
+					<button class="btn btn-outline">Эконом</button>
+				</div>
+			</div>
+
+			<div class="door-content-wrapper">
+				<!-- Левая часть с текстом -->
+				<div class="door-description">
+					<h3>Двери для квартиры</h3>
+					<p>Lorem ipsum dolor sit amet consectetur. Mattis dictumst morbi donec iaculis fringilla at etiam.
+						Tempus ornare sagittis quis etiam ullamcorper pretium auctor pharetra. A in ac suscipit mauris
+						nunc
+						posuere. Imperdiet cras orci augue eget tincidunt facilisis. Egestas facilisis proin quisque
+						arcu
+						massa eget interdum lobortis. Nisl nisl lacus lectus amet consectetur nisl risus. Odio fringilla
+						in
+						aenean donec. Amet venenatis et nisl dolor a sagittis suspendisse. Nam habitasse eu nam amet et
+						turpis quis enim.</p>
+					<button class="btn btn-primary">Оставить заявку</button>
+				</div>
+
+				<!-- Правая часть с изображениями -->
+				<div class="door-images">
+					<div class="main-image">
+						<img src="https://via.placeholder.com/400x500?text=Основное+изображение" alt="Двери">
+	                    </div>
+						<div class="small-images">
+							<img src="https://via.placeholder.com/150x150?text=1" alt="Дверь 1">
+							<img src="https://via.placeholder.com/150x150?text=2" alt="Дверь 2">
+							<img src="https://via.placeholder.com/150x150?text=3" alt="Дверь 3">
+
+	                    </div>
+						</div>
+					</div>
+				</div>
+	</section>
+
+	<!-- Почему мы -->
+	<section class="why-us">
+		<div class="why-us-overlay"></div>
+		<div class="container">
+			<h2 class="why-us-title">ПОЧЕМУ СТОИТ РАБОТАТЬ С НАМИ?</h2>
+
+			<div class="why-us-grid">
+				<!-- Первая строка карточек -->
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+1" alt="Собственное производство" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Собственное производство</h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+2" alt="Оперативное изготовление" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Оперативное изготовление</h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+3" alt="Работаем по договору" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Работаем по договору</h3>
+						</div>
+					</div>
+				</div>
+
+				<!-- Вторая строка карточек -->
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+4" alt="Гарантия 5 лет" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Гарантия 5 лет</h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+5" alt="Бесплатный выезд" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Бесплатный выезд на замер</h3>
+						</div>
+					</div>
+				</div>
+
+				<div class="why-us-card">
+					<div class="card-image-container">
+						<img src="https://via.placeholder.com/300x200?text=Изображение+6" alt="Бесплатный расчет" class="why-us-card-image">
+						<div class="card-text-overlay">
+							<h3>Бесплатный расчет</h3>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Варианты дверей -->
+	<section class="door-options">
+		<div class="container">
+			<div class="door-options-header">
+				<h2 class="section-title">ВАРИАНТЫ ДВЕРЕЙ</h2>
+				<div class="door-options-buttons">
+					<button class="btn btn-primary"><</button>
+					<button class="btn btn-outline">></button>
+				</div>
+			</div>
+
+			<div class="door-options__grid">
+				<div class="door-option">
+					<img src="https://via.placeholder.com/300x200?text=Одностворчатые" alt="Одностворчатые двери" class="door-option__image">
+					<h3 class="door-option__title">Двери одностворчатые</h3>
+					<p class="door-option__text">Lorem ipsum dolor sit amet consectetur. Urna nunc egestas quis.</p>
+				</div>
+
+				<div class="door-option">
+					<img src="https://via.placeholder.com/300x200?text=Орочные" alt="Орочные двери" class="door-option__image">
+					<h3 class="door-option__title">Двери орочные</h3>
+					<p class="door-option__text">Lorem ipsum dolor sit amet consectetur. Urna nunc egestas quis
+						orci venenatis massa facilisis enim.</p>
+				</div>
+
+				<div class="door-option">
+					<img src="https://via.placeholder.com/300x200?text=Двухстворчатые" alt="Двухстворчатые двери" class="door-option__image">
+					<h3 class="door-option__title">Двери двухстворчатые</h3>
+					<p class="door-option__text">Urna nunc egestas quis orci venenatis massa facilisis enim.</p>
+				</div>
+
+				<div class="door-option">
+					<img src="https://via.placeholder.com/300x200?text=Двухстворчатые+с+фрамугой" alt="Двери с фрамугой" class="door-option__image">
+					<h3 class="door-option__title">Двери двухстворчатые с верхней фрамугой</h3>
+					<p class="door-option__text">Lorem ipsum dolor sit amet consectetur.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- Цвета и материалы -->
+	<section class="colors-materials">
+		<div class="container">
+			<div class="section-header">
+				<h2 class="section-title">ЦВЕТА И МАТЕРИАЛЫ</h2>
+				<div class="header-buttons">
+					<button class="btn btn-outline"><</button>
+					<button class="btn btn-outline">></button>
+				</div>
+			</div>
+
+			<div class="materials-grid">
+				<div class="material-card">
+					<div class="material-image"></div>
+					<h3>Цвет порошкового напыления</h3>
+				</div>
+
+				<div class="material-card">
+					<div class="material-image"></div>
+					<h3>Цвет панели МДФ</h3>
+				</div>
+
+				<div class="material-card">
+					<div class="material-image"></div>
+					<h3>Толщина панели МДФ</h3>
+				</div>
+
+				<div class="material-card">
+					<div class="material-image"></div>
+					<h3>Толщина металла</h3>
+				</div>
+
+				<div class="material-card">
+					<div class="material-image"></div>
+					<h3>Замки 2-3 класс защиты</h3>
+				</div>
+			</div>
+
+			<div class="consultation-btn">
+				<button class="btn btn-primary">Получить бесплатную консультацию</button>
+			</div>
+		</div>
+	</section>
+
+	<!-- Акции -->
+	<section class="promo">
+		<div class="container">
+			<div class="header-container">
+				<h2 class="section-title">АКЦИИ И ПРЕДЛОЖЕНИЯ</h2>
+				<div class="header-buttons">
+					<button class="btn"><</button>
+					<button class="btn">></button>
+				</div>
+			</div>
+
+			<div class="promo__content">
+				<!-- Первый блок -->
+				<div class="promo__box">
+					<h2>Акции и предложения</h2>
+					<p>Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque eget dolor donec a diam ultrices.
+						Amet
+						vel vel ullamcorper lectus sed egestas massa. Habitant pellentesque hendrerit amet pellentesque
+						nisi
+						commodo consectetur lectus phasellus. Massa in placerat ac libero purus nibh. In in viverra est
+						nunc
+						molestie.</p>
+
+					<div class="divider"></div>
+
+					<div class="promo__footer">
+						<div class="price-row">
+							<div class="price-group">
+								<span class="price-title">Цена под ключ</span>
+								<span class="price-value">120 000 руб</span>
+							</div>
+							<div class="price-group">
+								<span class="price-title">Цена по акции</span>
+								<span class="price-value">118 000 руб</span>
+							</div>
+						</div>
+						<button class="btn">Отправить заявку</button>
+					</div>
+				</div>
+
+				<!-- Второй блок -->
+				<div class="promo__box">
+					<h2>Акции и предложения</h2>
+					<p>Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque eget dolor donec a diam ultrices.
+						Amet
+						vel vel ullamcorper lectus sed egestas massa. Habitant pellentesque hendrerit amet pellentesque
+						nisi
+						commodo consectetur lectus phasellus. Massa in placerat ac libero purus nibh. In in viverra est
+						nunc
+						molestie.</p>
+
+					<div class="divider"></div>
+
+					<div class="promo__footer">
+						<div class="price-row">
+							<div class="price-group">
+								<span class="price-title">Цена под ключ</span>
+								<span class="price-value">120 000 руб</span>
+							</div>
+							<div class="price-group">
+								<span class="price-title">Цена по акции</span>
+								<span class="price-value">118 000 руб</span>
+							</div>
+						</div>
+						<button class="btn">Отправить заявку</button>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<section class="about">
+		<div class="container">
+			<h2 class="section-title centered">О НАШЕЙ КОМПАНИИ</h2>
+
+			<div class="about__content">
+				<div class="about__text">
+					<p>Lorem ipsum dolor sit amet consectetur. Egestas posuere amet arcu id tellus. Aenean amet eu
+						blandit
+						sit aenean cursus accumsan. Non tortor eu rhoncus fusce diam. Rhoncus egestas congue vulputate
+						dui
+						eleifend. Id purus velit lectus nisi nisl integer nunc molestie. Nunc eget arcu rhoncus et.
+						Egestas
+						amet diam dui ligula et ullamcorper faucibus rhoncus. Adipiscing id elit diam ornare potenti
+						justo
+						arcu. Dictumst nullam lectus in pretium enim porta integer. Nunc quam ut feugiat enim. Duis
+						cursus
+						dolor id convallis purus tellus eleifend. Adipiscing pulvinar interdum porta et consequat eget
+						ornare molestie. Enim adipiscing turpis pretium at risus. Senectus arcu a quam in at phasellus.
+						Dolor pretium scelerisque nulla eget tortor et eget nec amet. Dolor auctor habitant urna
+						adipiscing
+						eu etiam diam malesuada. Consequat magna ac amet vestibulum in. Sed in accumsan velit nisl
+						cursus
+						ac. Massa ut purus aliquam duis et nibh ullamcorper.</p>
+
+					<button class="calculate-btn">Рассчитать стоимость дверей</button>
+				</div>
+
+				<div class="about__image">
+					<img src="images/door-example.jpg" alt="Пример наших дверей">
+	            </div>
+				</div>
+
+				<div class="about__comparison">
+					<div class="comparison__panel">
+						<h3 class="comparison__title">Заказывая дверь у нас:</h3>
+						<ul class="comparison__list">
+							<li><span class="comparison__checkbox checked"></span>Lorem ipsum dolor sit amet
+								consectetur. Eget vel nisl aliquam
+								dignissim odio vitae bibendum vel iaculis.</li>
+							<li><span class="comparison__checkbox checked"></span>Lorem ipsum dolor sit amet
+								consectetur.</li>
+							<li><span class="comparison__checkbox checked"></span>Eget vel nisl aliquam dignissim odio
+								vitae bibendum vel
+								iaculis.</li>
+							<li><span class="comparison__checkbox checked"></span>Eget vel nisl aliquam dignissim odio
+								vitae bibendum vel
+								iaculis.</li>
+						</ul>
+					</div>
+
+					<div class="comparison__panel">
+						<h3 class="comparison__title">Заказывая дверь в магазине</h3>
+						<ul class="comparison__list">
+							<li><span class="comparison__checkbox checked"></span>Lorem ipsum dolor sit amet
+								consectetur. Eget vel nisl
+								aliquam dignissim odio vitae bibendum vel iaculis.</li>
+							<li><span class="comparison__checkbox checked"></span>Lorem ipsum dolor sit amet
+								consectetur.</li>
+							<li><span class="comparison__checkbox checked"></span>Eget vel nisl aliquam dignissim odio
+								vitae bibendum
+								vel iaculis.</li>
+							<li><span class="comparison__checkbox checked"></span>Eget vel nisl aliquam dignissim odio
+								vitae bibendum
+								vel iaculis.</li>
+							<li><span class="comparison__checkbox checked"></span>Eget vel nisl aliquam dignissim odio
+								vitae bibendum
+								vel iaculis.</li>
+						</ul>
+					</div>
+				</div>
+
+				<!-- Проекты -->
+				<section class="projects">
+					<div class="container">
+						<h2 class="section-title centered">ПРИМЕРЫ ВЫПОЛНЕННЫХ ПРОЕКТОВ</h2>
+
+						<div class="projects__content">
+							<div class="project-card">
+								<div class="project-card__header">
+									<div class="project-card__date">Июль 2021</div>
+									<h3 class="project-card__title">Название проекта</h3>
+								</div>
+
+								<div class="project-card__controls">
+									<button class="project-card__arrow project-card__arrow--left">←</button>
+									<button class="project-card__arrow project-card__arrow--right">→</button>
+								</div>
+
+								<div class="project-card__characteristics">
+									<h4>Характеристики</h4>
+									<ul>
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+										<li>Lorem ipsum dolor sit amet consectetur.</li>
+									</ul>
+								</div>
+
+								<div class="price-block">
+									<div class="price-column">
+										<div class="price-label">Материалы</div>
+										<div class="price-value">30 000 руб.</div>
+									</div>
+
+									<div class="price-column">
+										<div class="price-label">Изготовление</div>
+										<div class="price-value">10 000 руб.</div>
+									</div>
+
+									<div class="price-column">
+										<div class="price-label">Итого</div>
+										<div class="price-value total">40 000 руб.</div>
+									</div>
+
+									<button class="price-button">Отправить заявку</button>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<!-- Замерщик -->
+				<section class="measurer">
+					<div class="container">
+						<div class="measurer__content">
+							<h2 class="measurer__title">ЗАКАЖИТЕ ВЫЕЗД<br>ЗАМЕРЩИКА</h2>
+
+								<p class="measurer__text">Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque
+									eget dolor
+									donec a diam ultrices. Amet
+									vel vel ullamcorper lectus sed egestas massa. Habitant pellentesque hendrerit amet
+									pellentesque nisi
+									commodo consectetur lectus phasellus. Massa in placerat ac libero purus nibh. In in
+									viverra est nunc
+									molestie. Nec in quisque ac morbi ultrices ullamcorper pellentesque gravida. Morbi
+									massa lacus
+									cenean feugiat praesent euismod risus faucibus penatibus.</p>
+
+								<button class="btn btn--primary measurer__btn">Заказать выезд замерщика</button>
+						</div>
+					</div>
+				</section>
+
+				<!-- Отзывы -->
+				<section class="reviews">
+					<div class="container">
+						<div class="section-header">
+							<h2 class="section-title">ОТЗЫВЫ НАШИХ КЛИЕНТОВ</h2>
+						</div>
+
+						<div class="reviews__grid">
+							<div class="review">
+								<div class="review__header">
+									<h3 class="review__author">Brooklyn Simmons</h3>
+									<div class="review__rating">★★★★☆</div>
+								</div>
+								<p class="review__text">Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque
+									eget dolor
+									donec a diam ultrices. Amet vel vel ullamcorper lectus sed egestas massa. Habitant
+									pellentesque
+									hendrerit amet pellentesque nisl commodo consectetur lectus phasellus.</p>
+							</div>
+
+							<div class="review">
+								<div class="review__header">
+									<h3 class="review__author">Wade Warren</h3>
+									<div class="review__rating">★★★★☆</div>
+								</div>
+								<p class="review__text">Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque
+									eget dolor
+									donec a diam ultrices.</p>
+							</div>
+
+							<div class="review">
+								<div class="review__header">
+									<h3 class="review__author">Darlene Robertson</h3>
+									<div class="review__rating">★★★★☆</div>
+								</div>
+								<p class="review__text">Lorem ipsum dolor sit amet consectetur. Elit erat pellentesque
+									eget dolor
+									donec a diam ultrices. Amet vel vel ullamcorper lectus sed egestas massa.</p>
+							</div>
+						</div>
+						<div class="reviews__actions">
+							<button class="btn btn--outline"><</button>
+							<button class="btn btn--primary">></button>
+						</div>
+					</div>
+				</section>
+
+				<!-- Вопросы -->
+				<section class="questions">
+					<div class="container">
+						<h2 class="section-title centered">ОСТАЛИСЬ ВОПРОСЫ?</h2>
+
+						<div class="questions__content">
+							<h3 class="questions__subtitle">Заполните форму и мы свяжемся с вами</h3>
+
+							<form class="questions__form">
+								<div class="form-group">
+									<label></label>
+									<input type="text" placeholder="Ваше имя">
+	                    </div>
+									<div class="form-group">
+										<label></label>
+										<input type="tel" placeholder="Ваш телефон">
+	                    </div>
+										<div class="form-group">
+											<label></label>
+											<textarea placeholder="Ваше сообщение"></textarea>
+										</div>
+
+										<button class="btn">Получить бесплатную консультацию</button>
+							</form>
+						</div>
+					</div>
+				</section>
+
+				<!-- Контакты и карта -->
+				<section class="contacts-map">
+					<div class="container">
+						<div class="contacts-map__grid">
+							<div class="contacts-info">
+								<h2 class="section-title">КОНТАКТНАЯ ИНФОРМАЦИЯ</h2>
+
+								<div class="contact-item">
+									<h3 class="contact-item__title">Адрес</h3>
+									<p class="contact-item__text">г. Клин, Московская обл., Ленинградское шоссе д. 1</p>
+								</div>
+
+								<div class="contact-item">
+									<h3 class="contact-item__title">Телефон</h3>
+									<p class="contact-item__text"><a href="tel:+79151000219">+7 (915) 100-02-19</a></p>
+								</div>
+
+								<div class="contact-item">
+									<h3 class="contact-item__title">E-mail</h3>
+									<p class="contact-item__text"><a
+											href="mailto:vuhathuongnute@gmail.com">vuhathuongnute@gmail.com</a></p>
+								</div>
+
+								<div class="contact-item">
+									<h3 class="contact-item__title">WhatsApp</h3>
+									<p class="contact-item__text"><a href="tel:+79586339707">+7 (958) 633-97-07</a></p>
+								</div>
+
+								<button class="btn">Заказать звонок</button>
+
+
+								<div class="developer">
+									<p>Сайт разработки: <strong>GRAMPUS</strong></p>
+								</div>
+							</div>
+
+							<div class="map-container">
+								<iframe
+									src="https://yandex.ru/map-widget/v1/?um=constructor%3A1a2b3c4d5e6f7g8h9i0j&amp;source=constructor"
+									width="100%" height="500" frameborder="0"></iframe>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.umd.js"></script>
+				<script src="js/script.js"></script>
+</body>
+
+</html>
